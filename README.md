@@ -4,10 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1440899/screenshots/5286905/browserpreview_tmp-3.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrathore63&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrathore63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanrathore63" alt="aryanrathore63" /></a> </p>
 
 - 🌱 I’m currently learning **DSA ,Java,C++,Full Stack Development**
 
