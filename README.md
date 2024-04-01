@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrathore63&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrathore63" /> </p>
 
-- 🌱 I’m currently learning **DSA ,Java,C++,Full Stack Development**
+- 🌱 I’m currently learning **DSA ,Java,C++,HTML,CSS,JS,NODE.js,React**
 
 - 💬 Ask me about **Java,Python,Data Structure,OOPs**
 
