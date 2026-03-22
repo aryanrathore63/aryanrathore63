@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aryanrathore363@gmail.com**
 
-- 📄 Know about my experiences [https://aryan-rathore-portfolio.netlify.app](https://aryan-rathore-portfolio.netlify.app).
+- 📄 Know about my experiences [https://aryan-rathore-portfolio.netlify.app](https://aryan-rathore-portfolio.vercel.app).
  [https://links.cuvette.tech/student/64475a0b07414f20c626c1ec](https://links.cuvette.tech/student/64475a0b07414f20c626c1ec)
 
 <h3 align="left">Connect with me:</h3>
