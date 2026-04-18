@@ -14,7 +14,7 @@
  [https://links.cuvette.tech/student/64475a0b07414f20c626c1ec](https://links.cuvette.tech/student/64475a0b07414f20c626c1ec)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex; gap:10px; align-items:center;">
   <a href="https://twitter.com/aryanrathore" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
