@@ -11,8 +11,6 @@
 - 📫 How to reach me **aryanrathore363@gmail.com**
 
 - 📄 Know about my experiences [https://aryan-rathore-portfolio.netlify.app](https://aryan-rathore-portfolio.vercel.app).
- [https://links.cuvette.tech/student/64475a0b07414f20c626c1ec](https://links.cuvette.tech/student/64475a0b07414f20c626c1ec)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryanrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanrathore" height="30" width="40" /></a>
